@@ -1,4 +1,4 @@
-[# Experiment 3: DML Commands
+Experiment 3: DML Commands
 
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
@@ -372,5 +372,5 @@ where hiredate between '2022-01-01' and '2022-12-31';
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
-]
+
 
